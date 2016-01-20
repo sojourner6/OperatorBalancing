@@ -1,3 +1,6 @@
+/*
+ * Somnath Sarkar
+ */
 package sojourner;
 
 public class Node {
